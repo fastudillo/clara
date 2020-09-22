@@ -1,1 +1,1 @@
-alert('Que dice mi garden');
+alert('Hola mami, este es el proyecto final de ese curso y ya subi en un servidor');
